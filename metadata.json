@@ -1,0 +1,6 @@
+{
+  "name": "TgTechnoLogy",
+  "description": "Minecraft Bedrock PocketMine-MP plugin creator, namespace structurer, text-to-file, ZIP and PHAR packaging utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
